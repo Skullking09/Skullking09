@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Skullking09
 - 👀 I’m interested in video games and books
 - 🌱 I’m currently learning c++ coding
-- 💞️ I’m looking to collaborate on nothing because eight now I don't have any project
+- 💞️ I’m looking to collaborate on nothing because right now I don't have any project
 - 📫 How to reach me 
 
 <!---
